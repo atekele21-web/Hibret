@@ -1,0 +1,6 @@
+{
+  "name": "Hibret",
+  "description": "Ethiopia's premier crowdfunding platform uniting communities for medical, education, emergency, and social causes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
